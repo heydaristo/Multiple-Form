@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\bin\Debug\MultpleForm.exe.config
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\bin\Debug\MultpleForm.exe
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\bin\Debug\MultpleForm.pdb
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.dashboardform.resources
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.employeeform.resources
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.Form1.resources
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.Properties.Resources.resources
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.reportsform.resources
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.exe
+C:\Users\DELL\source\repos\MultpleForm\MultpleForm\obj\Debug\MultpleForm.pdb
